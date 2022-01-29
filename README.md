@@ -1,3 +1,5 @@
+I forked this repo to experiment with possibly using it as an html generator to generate html tracks for videos with Shotstack API.
+
 # React Email Editor
 
 The excellent drag-n-drop email editor by [Unlayer](https://unlayer.com/embed) as a [React.js](http://facebook.github.io/react) _wrapper component_. This is the most powerful and developer friendly visual email builder for your app.
